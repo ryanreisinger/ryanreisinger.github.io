@@ -3,12 +3,20 @@ project:
   output-dir: docs
 
 website:
-  title: "ryanreisinger.github.io"
+  title: "Ryan Reisinger"
   navbar:
     left:
       - href: index.qmd
         text: Home
-      - about.qmd
+      - href: about.qmd
+        text: About
+      - href: research.qmd
+        text: Research
+      - href: publications.qmd
+        text: Publications
+      - href: teaching.qmd
+        text: Teaching
+
 
 format:
   html:

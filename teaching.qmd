@@ -1,0 +1,9 @@
+---
+title: "Teaching"
+---
+
+At the [School of Ocean and Earth Science, University of Southampton](https://www.southampton.ac.uk/oes), I lead two modules -- [*Seascape Ecology*](https://www.southampton.ac.uk/courses/modules/soes3056) and [*Independent Research Project*](https://www.southampton.ac.uk/courses/modules/soes3046) -- and I contribute to several others, including *Key Skills for Marine Scientists*, [*Coastal Ecology Field Course*](https://www.southampton.ac.uk/courses/modules/soes2030), [*Introduction to Marine Ecology and Evolution*](https://www.southampton.ac.uk/courses/modules/soes1006), [*Introduction to Functional Marine Biology*](https://www.southampton.ac.uk/courses/modules/soes1011) and [*Biological Data Science in R*](https://www.southampton.ac.uk/courses/modules/soes6092).
+
+## Seascape Ecology
+
+I developed this third year (undergraduate) module and have run and taught it since 2022. [*Seascape Ecology*](https://www.southampton.ac.uk/courses/modules/soes3056) focuses on understanding the causes and ecological consequences of seascape patterns and processes in space and time. A central theme is the movement of marine organisms and their interaction with dynamic environments at different scales. I emphasise learning skills to conduct spatiotemporal analyses in pelagic ecosystems. This understanding and these skills are then be applied to questions including quantifying scale and dynamics for conservation and management applications.
