@@ -2,6 +2,8 @@
 title: "Ryan Reisinger"
 ---
 
+![](resources/dsc_7784.jpg){fig-align="left"}
+
 I am an Associate Professor in marine ecology at the [School of Ocean and Earth Science](https://www.southampton.ac.uk/about/faculties-schools-departments/school-of-ocean-and-earth-science), [University of Southampton](https://www.southampton.ac.uk/).
 
 My work broadly focuses on the ecology of marine predators.
