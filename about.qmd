@@ -6,54 +6,56 @@ title: "About"
 
 I am an Associate Professor in marine biology at the [School of Ocean and Earth Science, University of Southampton](https://www.southampton.ac.uk/oes).
 
+I lead the [Ocean Predator Ecology Lab (OPEL).](https://opelresearch.github.io/)
+
 My work broadly speaking focuses on the ecology of marine predators. I look at how the biophysical oceanographic environment and anthropogenic factors influence the behaviour of marine predators and how we can model and forecast various aspects of their ecology in our changing seascapes. While my work has a strong fundamental ecology axis, I am increasingly working on the applied and broader implications of this work – how do we use information about predators for marine conservation and management and to understand broader ecosystem pattern, process and status? To do this I use both field- and desk-based studies and methods including animal biologging, remote-sensing and stable isotope analysis. I analyse the resulting data with modern, highly quantitative tools like machine learning and network analysis.
 
 ## Appointments
 
-+---------------+---------------------------------------------------+
-| 2024-present  | Associate Professor\                              |
-|               | University of Southampton, UK                     |
-+---------------+---------------------------------------------------+
-| 2021-2024     | Lecturer\                                         |
-|               | University of Southampton, UK                     |
-+---------------+---------------------------------------------------+
-| 2020-2021     | Postdoc\                                          |
-|               | University of California Santa Cruz, USA          |
-+---------------+---------------------------------------------------+
-| 2019          | Postdoc\                                          |
-|               | CNRS, France                                      |
-+---------------+---------------------------------------------------+
-| 2019          | Postdoc\                                          |
-|               | Sorbonne Université, France                       |
-+---------------+---------------------------------------------------+
-| 2017-2018     | Postdoc\                                          |
-|               | CNRS, France                                      |
-+---------------+---------------------------------------------------+
-| 2015-2017     | Postdoc\                                          |
-|               | Nelson Mandela University, South Africa           |
-+---------------+---------------------------------------------------+
-| 2011-2012     | Field biologist\                                  |
-|               | Department of Environmental Affairs, South Africa |
-+---------------+---------------------------------------------------+
-| 2008-2009     | Field biologist\                                  |
-|               | Department of Environmental Affairs, South Africa |
-+---------------+---------------------------------------------------+
++--------------+---------------------------------------------------+
+| 2024-present | Associate Professor\                              |
+|              | University of Southampton, UK                     |
++--------------+---------------------------------------------------+
+| 2021-2024    | Lecturer\                                         |
+|              | University of Southampton, UK                     |
++--------------+---------------------------------------------------+
+| 2020-2021    | Postdoc\                                          |
+|              | University of California Santa Cruz, USA          |
++--------------+---------------------------------------------------+
+| 2019         | Postdoc\                                          |
+|              | CNRS, France                                      |
++--------------+---------------------------------------------------+
+| 2019         | Postdoc\                                          |
+|              | Sorbonne Université, France                       |
++--------------+---------------------------------------------------+
+| 2017-2018    | Postdoc\                                          |
+|              | CNRS, France                                      |
++--------------+---------------------------------------------------+
+| 2015-2017    | Postdoc\                                          |
+|              | Nelson Mandela University, South Africa           |
++--------------+---------------------------------------------------+
+| 2011-2012    | Field biologist\                                  |
+|              | Department of Environmental Affairs, South Africa |
++--------------+---------------------------------------------------+
+| 2008-2009    | Field biologist\                                  |
+|              | Department of Environmental Affairs, South Africa |
++--------------+---------------------------------------------------+
 
 ## Education
 
-+-----------+--------------------------------------+
-| 2015      | PhD (Zoology)\                       |
-|           | University of Pretoria, South Africa |
-+-----------+--------------------------------------+
-| 2011      | MSc (Zoology) *Cum laude*\           |
-|           | University of Pretoria, South Africa |
-+-----------+--------------------------------------+
-| 2008      | BSc Hons (Zoology) *Cum laude*\      |
-|           | University of Pretoria, South Africa |
-+-----------+--------------------------------------+
-| 2007      | BSc (Zoology)\                       |
-|           | University of Pretoria, South Africa |
-+-----------+--------------------------------------+
++------+--------------------------------------+
+| 2015 | PhD (Zoology)\                       |
+|      | University of Pretoria, South Africa |
++------+--------------------------------------+
+| 2011 | MSc (Zoology) *Cum laude*\           |
+|      | University of Pretoria, South Africa |
++------+--------------------------------------+
+| 2008 | BSc Hons (Zoology) *Cum laude*\      |
+|      | University of Pretoria, South Africa |
++------+--------------------------------------+
+| 2007 | BSc (Zoology)\                       |
+|      | University of Pretoria, South Africa |
++------+--------------------------------------+
 
 ## Online profiles
 
