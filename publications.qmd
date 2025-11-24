@@ -2,6 +2,12 @@
 title: "Publications"
 ---
 
+<script type="text/javascript" src="https://embed.altmetric.com/assets/embed.js"></script>
+
+<script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
+
+
+
 ## Peer-reviewed papers
 
 ### Online early
@@ -10,6 +16,9 @@ title: "Publications"
 **Vulnerability of highly-mobile and wide-ranging marine megafauna to global anthropogenic threats**\
 *Conservation Biology*: e70147.\
 <https://doi.org/10.1111/cobi.70147>
+
+<span class="__dimensions_badge_embed__" data-doi="10.1111/cobi.70147" data-style="large_rectangle"></span> <div data-badge-type="1" data-doi="10.1111/cobi.70147" data-hide-no-mentions="true" class="altmetric-embed"></div>
+\
 
 ### 2025
 
@@ -26,12 +35,18 @@ title: "Publications"
 \[65\] Sequeira AMM, & 376 others (2025)\
 **Global tracking of marine megafauna space-use reveals how to achieve biodiversity targets**\
 *Science* 388(6751): 1086-1097.\
-<https://doi.org/10.1126/science.adl0239> 
+<https://doi.org/10.1126/science.adl0239>
+
+<span class="__dimensions_badge_embed__" data-doi="10.1126/science.adl0239" data-style="large_rectangle"></span> <div data-badge-type="1" data-doi="10.1126/science.adl0239" data-hide-no-mentions="true" class="altmetric-embed"></div>
+\
 
 \[64\] Trathan PN, Friedlaender AS, Johnson C, **Reisinger RR** (2025)\
 **The fishery for Antarctic krill - conflicts between industrial production, protection of biodiversity, and legal governance**\
 *Marine Policy* 180: 106787.\
 <https://doi.org/10.1016/j.marpol.2025.106787>
+
+<span class="__dimensions_badge_embed__" data-doi="10.1016/j.marpol.2025.106787" data-style="large_rectangle"></span> <div data-badge-type="1" data-doi="10.1016/j.marpol.2025.106787" data-hide-no-mentions="true" class="altmetric-embed"></div>
+\
 
 \[63\] MD, Leitner M, Oosthuizen WC, Bester MN, Jordaan RK, Voysey MD, Conradie EC, Dosi B, Evans S, Lloyd KJ, Monier Z, Purdon J, **Reisinger RR**, Shihlomule YD, van der Vyver JSF, de Bruyn PJN (2025)\
 **Seasonal occurrence and condition of leopard seals at an extralimital Sub-Antarctic Island**\
