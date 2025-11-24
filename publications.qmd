@@ -53,15 +53,24 @@ title: "Publications"
 *Polar Biology* 48(2):59.\
 <https://doi.org/10.1007/s00300-025-03378-6>
 
+<span class="__dimensions_badge_embed__" data-doi="10.1007/s00300-025-03378-6" data-style="large_rectangle"></span> <div data-badge-type="1" data-doi="10.1007/s00300-025-03378-6" data-hide-no-mentions="true" class="altmetric-embed"></div>
+\
+
 \[62\] Becker S, Boyd C, Handley J, Raymond B, **Reisinger RR**, Ropert-Coudert Y, Apelgren N, Davies T, Lea M-A, Santos M, Trathan PN, Van de Putte AP, Huckstadt L, Charassin J-B, Brooks CM (2025)\
 **Scaling up ocean conservation through recognition of Key Biodiversity Areas in the Southern Ocean from multispecies tracking data**\
 *Biological Conservation* 39(1): e14345\
 <https://doi.org/10.1111/cobi.14345>
 
+<span class="__dimensions_badge_embed__" data-doi="10.1111/cobi.14345" data-style="large_rectangle"></span> <div data-badge-type="1" data-doi="10.1111/cobi.14345" data-hide-no-mentions="true" class="altmetric-embed"></div>
+\
+
 \[61\] Beltran RS, Kilpatrick AM, Picardi S, Abrahms B, Barrile GM, Oestreich WK, Smith JA, Czapanskiy MF, Favilla AB, **Reisinger RR**, Kendall-Bar JM, Payne AR, Savoca MS, Palance DG, Andrzejaczek S, Shen DM, Adachi T, Costa DP, Storm NA, Hale CM, Robinson PW (2025)\
 **Maximizing biological insights from instruments attached to animals**\
 *Trends in Ecology and Evolution* 40(1): 37-46.\
 <https://doi.org/10.1016/j.tree.2024.09.009>
+
+<span class="__dimensions_badge_embed__" data-doi="10.1016/j.tree.2024.09.009" data-style="large_rectangle"></span> <div data-badge-type="1" data-doi="10.1016/j.tree.2024.09.009" data-hide-no-mentions="true" class="altmetric-embed"></div>
+\
 
 ### 2024
 
@@ -70,20 +79,32 @@ title: "Publications"
 *Frontiers in Marine Science* 11:1458042\
 <https://doi.org/10.3389/fmars.2024.1458042>
 
+<span class="__dimensions_badge_embed__" data-doi="10.3389/fmars.2024.1458042" data-style="large_rectangle"></span> <div data-badge-type="1" data-doi="10.3389/fmars.2024.1458042" data-hide-no-mentions="true" class="altmetric-embed"></div>
+\
+
 \[59\] Cooke SJ, Piczak ML, Singh NJ, Åkesson S, Ford AT, Chowdhury S, Mitchell GW, Norris R, Hardesty-Moore M, McCauley D, Hammerschlag N, Tucker MA, Horns J, **Reisinger RR**, Kubelka V, Lennox RJ (2024)\
 **Animal Migration in the Anthropocene: Threats and Mitigation Options**\
 *Biological Reviews* 99(4): 1242-1260\
 <https://doi.org/10.1111/brv.13066>
+
+<span class="__dimensions_badge_embed__" data-doi="10.1111/brv.13066" data-style="large_rectangle"></span> <div data-badge-type="1" data-doi="10.1111/brv.13066" data-hide-no-mentions="true" class="altmetric-embed"></div>
+\
 
 \[58\] Gimeno Castells M, Giménez J, Chiaradia A, Davis L, Seddon P, Ropert-Coudert Y, **Reisinger RR**, Coll M, Ramírez F (2024)\
 **Climate and human stressors on global penguin hotspots: current assessments for future conservation.**\
 *Global Change Biology* 30(1): e17143\
 <https://doi.org/10.1111/gcb.17143>
 
+<span class="__dimensions_badge_embed__" data-doi="10.1111/gcb.17143" data-style="large_rectangle"></span> <div data-badge-type="1" data-doi="10.1111/gcb.17143" data-hide-no-mentions="true" class="altmetric-embed"></div>
+\
+
 \[57\] McIntyre T, Oosthuizen WC, Bester MN, Hindell MA, **Reisinger RR**, Tosh CA, Van den Hoff J, de Bruyn PJN (2024)\
 **Tracking the foraging migrations of Marion Island southern elephant seals (*Mirounga leonina*) during their first year of life.**\
 *Marine Mammal Science* 40(2):e13078\
 <https://doi.org/10.1111/mms.13078>
+
+<span class="__dimensions_badge_embed__" data-doi="10.1111/mms.13078" data-style="large_rectangle"></span> <div data-badge-type="1" data-doi="10.1111/mms.13078" data-hide-no-mentions="true" class="altmetric-embed"></div>
+\
 
 ### 2023
 
@@ -92,6 +113,9 @@ title: "Publications"
 *Ecology and Evolution* e10144\
 <https://doi.org/10.1002/ece3.10144>
 
+<span class="__dimensions_badge_embed__" data-doi="10.1002/ece3.10144" data-style="large_rectangle"></span> <div data-badge-type="1" data-doi="10.1002/ece3.10144" data-hide-no-mentions="true" class="altmetric-embed"></div>
+\
+
 ### 2022
 
 \[55\] **Reisinger RR**, Trathan PN, Johnson CM, Joyce TW, Durban JW, Pitman RL, Friedlaender AS (2022)\
@@ -99,15 +123,24 @@ title: "Publications"
 *Frontiers in Marine Science* 9:914726\
 <https://doi.org/10.3389/fmars.2022.914726>
 
+<span class="__dimensions_badge_embed__" data-doi="10.3389/fmars.2022.914726" data-style="large_rectangle"></span> <div data-badge-type="1" data-doi="10.3389/fmars.2022.914726" data-hide-no-mentions="true" class="altmetric-embed"></div>
+\
+
 \[54\] **Reisinger RR**, Brooks CM, Raymond B, Freer JJ, Cotté C, Xavier JC, Trathan PN, Bornemann H, Charrassin J-B, Costa DP, Hückstädt L, Jonsen ID, Lea M-A, Torres L, Van de Putte A, Wotherspoon S, Friedlaender AS, Ropert-Coudert Y, Hindell M (2022)\
 **Predator-derived bioregions in the Southern Ocean: characteristics, drivers and representation in Marine Protected Areas.**\
 *Biological Conservation* 272: 109630\
 <https://doi.org/10.1016/j.biocon.2022.109630>
 
+<span class="__dimensions_badge_embed__" data-doi="10.1016/j.biocon.2022.109630" data-style="large_rectangle"></span> <div data-badge-type="1" data-doi="10.1016/j.biocon.2022.109630" data-hide-no-mentions="true" class="altmetric-embed"></div>
+\
+
 \[53\] **Reisinger RR**, Corney S, Raymond B, Lombard AT, Bester MN, Crawford RJM, Davies D, de Bruyn PJN, Dilley BJ Kirkman SP, Makhado AB, Ryan PG, Schoombie S, Stevens KL, Tosh CA, Wege M, Whitehead TO, Sumner MD, Wotherspoon S, Friedlaender AS, Cotté C, Hindell MA, Ropert-Coudert Y, Pistorius PA (2022)\
 **Habitat model forecasts suggest potential redistribution of marine predators in the southern Indian Ocean.**\
 *Diversity and Distributions* 28(1): 142–159\
 <https://doi.org/10.1111/ddi.13447>
+
+<span class="__dimensions_badge_embed__" data-doi="10.1111/ddi.13447" data-style="large_rectangle"></span> <div data-badge-type="1" data-doi="10.1111/ddi.13447" data-hide-no-mentions="true" class="altmetric-embed"></div>
+\
 
 ### 2021
 
@@ -116,25 +149,40 @@ title: "Publications"
 *Journal of Animal Ecology* 90(10): 2404-2420\
 <https://doi.org/10.1111/1365-2656.13552>
 
+<span class="__dimensions_badge_embed__" data-doi="10.1111/1365-2656.13552" data-style="large_rectangle"></span> <div data-badge-type="1" data-doi="10.1111/1365-2656.13552" data-hide-no-mentions="true" class="altmetric-embed"></div>
+\
+
 \[51\] Oosthuizen WC, **Reisinger RR**, Bester MN, Steinhage D, Auel H, Flores H, Knust R, Ryan S, Bornemann H (2021)\
 **Habitat-based density models of pack ice seal distribution in the southern Weddell Sea, Antarctica.**\
 *Marine Ecology Progress Series* 673: 211–227\
 <http://dx.doi.org/10.3354/meps13787>
+
+<span class="__dimensions_badge_embed__" data-doi="10.3354/meps13787" data-style="large_rectangle"></span> <div data-badge-type="1" data-doi="10.3354/meps13787" data-hide-no-mentions="true" class="altmetric-embed"></div>
+\
 
 \[50\] Jordaan R, **Reisinger RR**, Oosthuizen WCO, de Bruyn PJN (2021)\
 **Seasonal fission and fusion of killer whale, *Orcinus orca*, social structure at sub-Antarctic Marion Island.**\
 *Animal Behaviour* 177: 223-230\
 <https://doi.org/10.1016/j.anbehav.2021.05.007>
 
+<span class="__dimensions_badge_embed__" data-doi="10.1016/j.anbehav.2021.05.007" data-style="large_rectangle"></span> <div data-badge-type="1" data-doi="10.1016/j.anbehav.2021.05.007" data-hide-no-mentions="true" class="altmetric-embed"></div>
+\
+
 **\[49\]** **Reisinger RR**, Friedlaender AS, Zerbini AN, Palacios DM, Andrews-Goff V, Dalla Rosa L, Double M, Findlay K, Garrigue C, How J, Jenner C, Jenner M-N, Mate B, Rosenbaum HC, Seakamela SM, Constantine R (2021)\
 **Combining Regional Habitat Selection Models for Large-Scale Prediction: Circumpolar Habitat Selection of Southern Ocean Humpback Whales.**\
 *Remote Sensing* 13(11): 2074\
 <https://doi.org/10.3390/rs13112074>
 
+<span class="__dimensions_badge_embed__" data-doi="10.3390/rs13112074" data-style="large_rectangle"></span> <div data-badge-type="1" data-doi="10.3390/rs13112074" data-hide-no-mentions="true" class="altmetric-embed"></div>
+\
+
 \[48\] Gutt J, Isla E, Xavier JC, Adams BJ, Ahn I, Cheng C ‐H. C, Colesie C, Cummings VJ, Prisco G di, Griffiths H, Hawes I, Hogg I, McIntyre T, Meiners KM, Pearce DA, Peck L, Piepenburg D, **Reisinger RR**, Saba GK, Schloss IR, Signori CN, Smith CR, Vacchi M, Verde C, Wall DH (2021)\
 **Antarctic ecosystems in transition – life between stresses and opportunities.**\
 *Biological Reviews* 96(3): 798-821\
 <https://dx.doi.org/10.1111/brv.12679>
+
+<span class="__dimensions_badge_embed__" data-doi="10.1111/brv.12679" data-style="large_rectangle"></span> <div data-badge-type="1" data-doi="10.1111/brv.12679" data-hide-no-mentions="true" class="altmetric-embed"></div>
+\
 
 ### 2020
 
@@ -143,45 +191,68 @@ title: "Publications"
 *Frontiers in Ecology and Evolution* 8: 566936\
 <https://dx.doi.org/10.3389/fevo.2020.566936>
 
+<span class="__dimensions_badge_embed__" data-doi="10.3389/fevo.2020.566936" data-style="large_rectangle"></span> <div data-badge-type="1" data-doi="10.3389/fevo.2020.566936" data-hide-no-mentions="true" class="altmetric-embed"></div>
+\
+
 \[46\] Jordaan R, Oosthuizen WC, **Reisinger RR**, de Bruyn PJN (2020)\
 **Abundance, survival and population growth of killer whales *Orcinus orca* at subantarctic Marion Island.**\
 *Wildlife Biology* 2020(4): wlb.00732\
 <https://doi.org/10.2981/wlb.00732>
+
+<span class="__dimensions_badge_embed__" data-doi="10.2981/wlb.00732" data-style="large_rectangle"></span> <div data-badge-type="1" data-doi="10.2981/wlb.00732" data-hide-no-mentions="true" class="altmetric-embed"></div>
+\
 
 \[45\] Carpenter‐Kling T, **Reisinger RR**, Orgeret F, Connan M, Stevens KL, Ryan PG, Makhado A, Pistorius PA (2020)\
 **Foraging in a dynamic environment: Response of four sympatric sub‐Antarctic albatross species to interannual environmental variability.**\
 *Ecology & Evolution* 10: 11277–11295*\
 *<http://dx.doi.org/10.1002/ece3.6766>
 
+<span class="__dimensions_badge_embed__" data-doi="10.1002/ece3.6766" data-style="large_rectangle"></span> <div data-badge-type="1" data-doi="10.1002/ece3.6766" data-hide-no-mentions="true" class="altmetric-embed"></div>
+\
+
 **\[44\] Reisinger RR**, Carpenter-Kling T, Connan M, Cherel Y, Pistorius PA (2020)\
 **Foraging behaviour and habitat-use drives niche segregation in sibling seabird species.**\
 *Royal Society Open Science* 7: 200649\
 <http://dx.doi.org/10.1098/rsos.200649>
+
+<span class="__dimensions_badge_embed__" data-doi="10.1098/rsos.200649" data-style="large_rectangle"></span> <div data-badge-type="1" data-doi="10.1098/rsos.200649" data-hide-no-mentions="true" class="altmetric-embed"></div>
+\
 
 \[43\] Carpenter-Kling T, Pistorius PA, **Reisinger RR**, Cherel Y, Connan M (2020)\
 **A critical assessment of marine predator isoscapes within the southern Indian Ocean.**\
 *Movement Ecology* 8: 29\
 <https://doi.org/10.1186/s40462-020-00208-8>
 
+<span class="__dimensions_badge_embed__" data-doi="10.1186/s40462-020-00208-8" data-style="large_rectangle"></span> <div data-badge-type="1" data-doi="10.1186/s40462-020-00208-8" data-hide-no-mentions="true" class="altmetric-embed"></div>
+\
+
 **\[42\] Reisinger RR**, Penfold M, Bester MN, Steenkamp G (2020)\
 **Seal bites at Sub-Antarctic Marion Island: Incidence, outcomes and treatment recommendations.**\
 *Journal of the South African Veterinary Association* 91: a1720\
 <https://doi.org/10.4102/jsava.v91i0.1720>
+
+<span class="__dimensions_badge_embed__" data-doi="10.4102/jsava.v91i0.1720" data-style="large_rectangle"></span> <div data-badge-type="1" data-doi="10.4102/jsava.v91i0.1720" data-hide-no-mentions="true" class="altmetric-embed"></div>
+\
 
 **\[41\]** Hindell MA\*, **Reisinger RR\*,** Ropert-Coudert Y\* **\[\*JOINT FIRST AUTHORS\]**, Hückstädt LA, Trathan PN, Bornemann H, Charrassin J-B, Costa DP, Danis B, Lea M-A, Thompson D, Torres LG, Van de Putte A, Alderman R, Andrews-Goff V, Arthur B, Ballard G, Bengtson J, Bester MN, Blix AS, Boehme L, Bost C-A, Boveng P, Cleeland J, Constantine R, Crawford RJM, Dalla Rosa L, de Bruyn PJN, Delord K, Descamps S, Double M, Emmerson L, Fedak M, Friedlaender A, Gales N, Goebel M, Goetz KT, Guinet G, Goldsworthy SD, Harcourt R, Hinke JT, Jerosch K, Kato A, Kerry KR, Kirkwood R, Kooyman GL, Kovacs KM, Lawton K, Lowther AD, Lydersen C, Lyver PO, Makhado AB, Márquez MEI, McDonald BI, McMahon CR, Muelbert M, Nachtsheim D, Nicholls KW, Nordøy ES, Olmastroni S, Phillips RA, Pistorius PA, Plötz J, Pütz K, Ratcliffe N, Ryan PG, Santos M, Southwell C, Staniland I, Takahashi A, Tarroux A, Trivelpiece W, Wakefield E, Weimerskirch H, Wienecke B, Xavier JC, Wotherspoon S, Jonsen ID, Raymond B (2020)\
 **Tracking of marine predators to protect Southern Ocean ecosystems.**\
 *Nature* 580: 87–92\
 <https://doi.org/10.1038/s41586-020-2126-y>
 
+<span class="__dimensions_badge_embed__" data-doi="10.1038/s41586-020-2126-y" data-style="large_rectangle"></span> <div data-badge-type="1" data-doi="10.1038/s41586-020-2126-y" data-hide-no-mentions="true" class="altmetric-embed"></div>
 **Media coverage:**\
 [BBC Science Focus (UK)](https://www.sciencefocus.com/news/penguins-help-researchers-identify-the-most-vulnerable-areas-of-the-antarctic/)\
 [Mail & Guardian (South Africa)](https://mg.co.za/environment/2020-05-19-e-tracking-marine-predators-to-protect-southern-oceans-rich-feeding-grounds/)\
 [Geographical Magazine (UK)](http://geographical.co.uk/nature/oceans/item/3730-tracking-marine-predators-highlights-biodiversity-hotspots-in-the-southern-ocean-most-in-need-of-protection)
+\
 
 **\[40\]** Ropert-Coudert Y\*, Van de Putte A\*, **Reisinger RR\* \[\*JOINT FIRST AUTHORS\]**, Bornemann H, Charrassin J-B, Costa DP, Danis B, Hückstädt LA, Jonsen ID, Lea M-A, Thompson D, Torres LG, Trathan PN, Wotherspoon S, Ainley DG, Alderman R, Andrews-Goff V, Arthur B, Ballard G, Bengtson J, Bester MN, Blix AS, Boehme L, Bost C-A, Boveng P, Cleeland J, Constantine R, Crawford RJM, Dalla Rosa L, de Bruyn PJN, Delord K, Descamps S, Double M, Emmerson L, Fedak M, Friedlaender A, Gales N, Goebel M, Goetz KT, Guinet G, Goldsworthy SD, Harcourt R, Hinke JT, Jerosch K, Kato A, Kerry KR, Kirkwood R, Kooyman GL, Kovacs KM, Lawton K, Lowther AD, Lydersen C, Lyver PO, Makhado AB, Márquez MEI, McDonald BI, McMahon CR, Muelbert M, Nachtsheim D, Nicholls KW, Nordøy ES, Olmastroni S, Phillips RA, Pistorius PA, Plötz J, Pütz K, Ratcliffe N, Ryan PG, Santos M, Southwell C, Staniland I, Takahashi A, Tarroux A, Trivelpiece W, Wakefield E, Weimerskirch H, Wienecke B, Xavier JC, Raymond B, Hindell MA (2020)\
 **The Retrospective Analysis of Antarctic Tracking Data Project.**\
 *Scientific Data* 7: 94\
 <https://doi.org/10.1038/s41597-020-0406-x>
+
+<span class="__dimensions_badge_embed__" data-doi="10.1038/s41597-020-0406-x" data-style="large_rectangle"></span> <div data-badge-type="1" data-doi="10.1038/s41586-020-2126-y" data-hide-no-mentions="true" class="altmetric-embed"></div>
+\
 
 ### 2019
 
@@ -190,34 +261,51 @@ title: "Publications"
 *Geophysical Research Letters* 46(20): 11206-11218\
 <https://doi.org/10.1029/2019GL084347>
 
+<span class="__dimensions_badge_embed__" data-doi="10.1029/2019GL084347" data-style="large_rectangle"></span> <div data-badge-type="1" data-doi="10.1029/2019GL084347" data-hide-no-mentions="true" class="altmetric-embed"></div>
+\
+
 \[38\] Busson M, Authier M, Barbraud C, Tixier P, **Reisinger RR**, Janc A, Guinet C (2019)\
 **Role of sociality in the response of killer whales to an additive mortality event.**\
 *Proceedings of the National Academy of Sciences of the USA* 116(24): 11812-11817\
 <https://doi.org/10.1073/pnas.1817174116>
 
+<span class="__dimensions_badge_embed__" data-doi="10.1073/pnas.1817174116" data-style="large_rectangle"></span> <div data-badge-type="1" data-doi="10.1073/pnas.1817174116" data-hide-no-mentions="true" class="altmetric-embed"></div>
 Media coverage:\
 [National Geographic (France)](https://www.nationalgeographic.fr/animaux/2019/06/plus-que-tout-les-orques-ont-besoin-de-leur-groupe-pour-survivre)\
 [Liberation (France)](https://www.liberation.fr/planete/2019/06/02/les-orques-ont-besoin-de-leur-famille-pour-survivre_1730222)
+\
 
 \[37\] Baylis AMM, Tierney M, Orben R, Warwick-Evans V, Wakefield E, Grecian J, Trathan PN, **Reisinger RR**, Ratcliffe N, Staniland IJ, Croxall J, Campioni L, Catry P, Crofts S, Boersma PD, Galimberti F, Hedd A, Granadeiro J, Handley J, Hayes S, Masello JF, Montevecchi WA, Putz K, Quillfeldt P, Rebstock GA, Sanvito S, Brickle P (2019)\
 **Important at-sea areas of colonial breeding marine predators on the southern Patagonian Shelf**.\
 *Scientific Reports* 9: 8517*\
 *<https://doi.org/10.1038/s41598-019-44695-1>
 
+<span class="__dimensions_badge_embed__" data-doi="10.1038/s41598-019-44695-1" data-style="large_rectangle"></span> <div data-badge-type="1" data-doi="10.1038/s41598-019-44695-1" data-hide-no-mentions="true" class="altmetric-embed"></div>
+\
+
 \[36\] Du Toit K, Mole MA, Wege M, **Reisinger RR**, Oosthuizen WC, Shihlomule YD, Jordaan RK, van Tonder A, de Bruyn PJN (2019)\
 **Anomalous lanugo coat colourations in sub-Antarctic fur seal (*Arctocephalus tropicalis*) pups born on Marion Island.**\
 *Polar Biology* 42(5): 1053–1057\
 <https://doi.org/10.1007/s00300-019-02487-3>
+
+<span class="__dimensions_badge_embed__" data-doi="10.1007/s00300-019-02487-3" data-style="large_rectangle"></span> <div data-badge-type="1" data-doi="10.1007/s00300-019-02487-3" data-hide-no-mentions="true" class="altmetric-embed"></div>
+\
 
 \[35\] Tixier P, Giménez J, **Reisinger RR**, Méndez-Fernandez P, Arnould J, Cherel Y, Guinet C (2019)\
 **Assessing the importance of toothfish in the diet of generalist subantarctic killer whales: implications for fisheries interactions.**\
 *Marine Ecology Progress Series* 613: 197-210\
 <https://doi.org/10.3354/meps12894>
 
+<span class="__dimensions_badge_embed__" data-doi="10.3354/meps12894" data-style="large_rectangle"></span> <div data-badge-type="1" data-doi="10.3354/meps12894" data-hide-no-mentions="true" class="altmetric-embed"></div>
+\
+
 \[34\] Carpenter-Kling T, Pistorius PA, Connan M, **Reisinger RR**, Magozzi S, Trueman C (2019)\
 **Sensitivity of δ13C values of seabird tissues to combined spatial, temporal and ecological drivers: A simulation approach.**\
 *Journal of Experimental Marine Biology and Ecology* 512: 12-21\
 <https://doi.org/10.1016/j.jembe.2018.12.007>
+
+<span class="__dimensions_badge_embed__" data-doi="10.1016/j.jembe.2018.12.007" data-style="large_rectangle"></span> <div data-badge-type="1" data-doi="10.1016/j.jembe.2018.12.007" data-hide-no-mentions="true" class="altmetric-embed"></div>
+\
 
 ### 2018
 
@@ -226,20 +314,32 @@ Media coverage:\
 *Polar Biology* 41(11): 2249-2259\
 <https://doi.org/10.1007/s00300-018-2361-y>
 
+<span class="__dimensions_badge_embed__" data-doi="10.1007/s00300-018-2361-y" data-style="large_rectangle"></span> <div data-badge-type="1" data-doi="10.1007/s00300-018-2361-y" data-hide-no-mentions="true" class="altmetric-embed"></div>
+\
+
 \[32\] Makhado AB, Crawford RJM, Dias MP, Dyer BM, Lamont T, Pistorius PA, Ryan PG, Upfold L, Weimerskirch H, **Reisinger RR** (2018)\
 **Foraging behaviour and habitat use by Indian Yellow-nosed Albatrosses (*Thalassarche carteri*) breeding at Prince Edward Island**\
 *Emu - Austral Ornithology* 118(4): 353-362\
 <https://doi.org/10.1080/01584197.2018.1469959>
+
+<span class="__dimensions_badge_embed__" data-doi="10.1080/01584197.2018.1469959" data-style="large_rectangle"></span> <div data-badge-type="1" data-doi="10.1080/01584197.2018.1469959" data-hide-no-mentions="true" class="altmetric-embed"></div>
+\
 
 **\[31\] Reisinger RR**, Landman M, Mgibantaka N, Smale MJ, Bester MN, de Bruyn PJN, Pistorius PA (2018)\
 **Overlap and temporal variation in the diets of sympatric Antarctic and Subantarctic fur seals (*Arctocephalus* spp.) at sub-Antarctic Marion Island.**\
 *Polar Research* 37(1): 1451142\
 <https://doi.org/10.1080/17518369.2018.1451142>
 
+<span class="__dimensions_badge_embed__" data-doi="10.1080/17518369.2018.1451142" data-style="large_rectangle"></span> <div data-badge-type="1" data-doi="10.1080/17518369.2018.1451142" data-hide-no-mentions="true" class="altmetric-embed"></div>
+\
+
 **\[30\] Reisinger RR**, Raymond B, Hindell MA, Bester MN, Crawford RJM, Davies D, de Bruyn PJN, Dilley BJ, Kirkman SP, Makhado AB, Ryan PG, Schoombie S, Stevens K, Sumner MD, Tosh CA, Wege M, Whitehead TO, Wotherspoon S, Pistorius PA (2018)\
 **Habitat modelling of tracking data from multiple marine predators identifies important areas in the Southern Indian Ocean.**\
 *Diversity and Distributions* 24(4): 535-550\
 <http://dx.doi.org/10.1111/ddi.12702>
+
+<span class="__dimensions_badge_embed__" data-doi="10.1111/ddi.12702" data-style="large_rectangle"></span> <div data-badge-type="1" data-doi="10.1111/ddi.12702" data-hide-no-mentions="true" class="altmetric-embed"></div>
+\
 
 ### 2017
 
@@ -248,20 +348,32 @@ Media coverage:\
 *Marine Ecology Progress Series* 577: 237-250\
 <http://dx.doi.org/10.3354/meps12240>
 
+<span class="__dimensions_badge_embed__" data-doi="10.3354/meps12240" data-style="large_rectangle"></span> <div data-badge-type="1" data-doi="10.3354/meps12240" data-hide-no-mentions="true" class="altmetric-embed"></div>
+\
+
 **\[28\] Reisinger RR**, Beukes (Janse van Rensburg) C, Hoelzel AR, de Bruyn PJN (2017)\
 **Kinship and association in a highly social apex predator population, killer whales at Marion Island**\
 *Behavioral Ecology* 28(3): 750-759\
 <http://dx.doi.org/10.1093/beheco/arx034>
+
+<span class="__dimensions_badge_embed__" data-doi="10.1093/beheco/arx034" data-style="large_rectangle"></span> <div data-badge-type="1" data-doi="10.1093/beheco/arx034" data-hide-no-mentions="true" class="altmetric-embed"></div>
+\
 
 \[27\] Pistorius PA, Hindell MA, Crawford RJM, Makhado AB, Dyer B, **Reisinger RR** (2017)\
 **At-sea distribution and habitat use in king penguins at sub-Antarctic Marion Island**\
 *Ecology and Evolution* 7(11): 3894–3903\
 <http://dx.doi.org/10.1002/ece3.2833>
 
+<span class="__dimensions_badge_embed__" data-doi="10.1002/ece3.2833" data-style="large_rectangle"></span> <div data-badge-type="1" data-doi="10.1002/ece3.2833" data-hide-no-mentions="true" class="altmetric-embed"></div>
+\
+
 \[26\] Carpenter-Kling T, Handley JM, Green DB, **Reisinger RR**, Makhado AB, Crawford RJM, Pistorius PA (2017)\
 **A novel foraging strategy in gentoo penguins breeding at sub-Antarctic Marion Island.**\
 *Marine Biology* 164: 33\
 <http://dx.doi.org/10.1007/s00227-016-3066-9>
+
+<span class="__dimensions_badge_embed__" data-doi="10.1007/s00227-016-3066-9" data-style="large_rectangle"></span> <div data-badge-type="1" data-doi="10.1007/s00227-016-3066-9" data-hide-no-mentions="true" class="altmetric-embed"></div>
+\
 
 ### 2016
 
@@ -270,10 +382,16 @@ Media coverage:\
 *Marine Ecology Progress Series* 549: 263-274\
 <http://dx.doi.org/10.3354/meps11676>
 
+<span class="__dimensions_badge_embed__" data-doi="10.3354/meps11676" data-style="large_rectangle"></span> <div data-badge-type="1" data-doi="10.3354/meps11676" data-hide-no-mentions="true" class="altmetric-embed"></div>
+\
+
 \[24\] Wege M, Etienne M-P, Oosthuizen WC, **Reisinger RR**, Bester MN, de Bruyn PJN (2016)\
 **Trend changes in sympatric Subantarctic and Antarctic fur seal pup populations at Marion Island, Southern Ocean.**\
 *Marine Mammal Science* 32(3): 960-982*\
 *<http://dx.doi.org/10.1111/mms.12306>
+
+<span class="__dimensions_badge_embed__" data-doi="10.1111/mms.12306" data-style="large_rectangle"></span> <div data-badge-type="1" data-doi="10.1111/mms.12306" data-hide-no-mentions="true" class="altmetric-embed"></div>
+\
 
 ### 2015
 
@@ -282,25 +400,40 @@ Media coverage:\
 *Ecosphere* 6(12): 293\
 <http://dx.doi.org/10.1890/ES15-00368.1>
 
+<span class="__dimensions_badge_embed__" data-doi="10.1890/ES15-00368.1" data-style="large_rectangle"></span> <div data-badge-type="1" data-doi="10.1890/ES15-00368.1" data-hide-no-mentions="true" class="altmetric-embed"></div>
+\
+
 **\[22\] Reisinger RR**, Keith M, Andrews RD, de Bruyn PJN  (2015)\
 **Movement and diving of killer whales (*Orcinus orca*) at a Southern Ocean archipelago.**\
 *Journal of Experimental Marine Biology and Ecology* 473: 90-102\
 <http://dx.doi.org/10.1016/j.jembe.2015.08.008>
+
+<span class="__dimensions_badge_embed__" data-doi="10.1016/j.jembe.2015.08.008" data-style="large_rectangle"></span> <div data-badge-type="1" data-doi="10.1016/j.jembe.2015.08.008" data-hide-no-mentions="true" class="altmetric-embed"></div>
+\
 
 \[21\] Whitehead TO, Rollinson DR, **Reisinger RR** (2015)**\
 Pseudostalked barnacles *Xenobalanus globicipitis* attached to killer whales *Orcinus orca* in South African waters.**\
 *Marine Biodiversity* 45: 873-876\
 <http://dx.doi.org/10.1007/s12526-014-0296-2>
 
+<span class="__dimensions_badge_embed__" data-doi="10.1007/s12526-014-0296-2" data-style="large_rectangle"></span> <div data-badge-type="1" data-doi="10.1007/s12526-014-0296-2" data-hide-no-mentions="true" class="altmetric-embed"></div>
+\
+
 \[20\] Haddad WA, **Reisinger RR**, Scott T, Bester MN, de Bruyn PJN (2015)\
 **Multiple occurrences of king penguin (*Aptenodytes patagonicus*) sexual harassment by Antarctic fur seals (*Arctocephalus gazella*).**\
 *Polar Biology* 38(5): 741-746\
 <http://dx.doi.org/10.1007/s00300-014-1618-3>
 
+<span class="__dimensions_badge_embed__" data-doi="10.1007/s00300-014-1618-3" data-style="large_rectangle"></span> <div data-badge-type="1" data-doi="10.1007/s00300-014-1618-3" data-hide-no-mentions="true" class="altmetric-embed"></div>
+\
+
 \[19\] Moura AE, Kenny JG, Chaudhuri RR, Hughes MA, **Reisinger RR**, de Bruyn PJN, Dahlheim ME, Hall N, Hoelzel AR (2015)\
 **Phylogenomics of the killer whale indicates ecotype divergence in sympatry.**\
 *Heredity* 114: 48-55\
 <http://dx.doi.org/10.1038/hdy.2014.67>
+
+<span class="__dimensions_badge_embed__" data-doi="10.1038/hdy.2014.67" data-style="large_rectangle"></span> <div data-badge-type="1" data-doi="10.1038/hdy.2014.67" data-hide-no-mentions="true" class="altmetric-embed"></div>
+\
 
 ### 2014
 
@@ -309,15 +442,24 @@ Pseudostalked barnacles *Xenobalanus globicipitis* attached to killer whales *Or
 *PLOS One* 9:e111835\
 <http://dx.doi.org/10.1371/journal.pone.0111835>
 
+<span class="__dimensions_badge_embed__" data-doi="10.1371/journal.pone.0111835" data-style="large_rectangle"></span> <div data-badge-type="1" data-doi="10.1371/journal.pone.0111835" data-hide-no-mentions="true" class="altmetric-embed"></div>
+\
+
 \[17\] McIntyre T, Bornemann H, de Bruyn PJN, **Reisinger RR**, Steinhage D, Márquez MEI, Bester MN, Plötz J (2014)\
 **Environmental influences on the at-sea behaviour of a major consumer, *Mirounga leonina*, in a rapidly changing environment.**\
 *Polar Research* 33: 23808\
 <http://dx.doi.org/10.3402/polar.v33.23808>
 
+<span class="__dimensions_badge_embed__" data-doi="10.3402/polar.v33.23808" data-style="large_rectangle"></span> <div data-badge-type="1" data-doi="10.3402/polar.v33.23808" data-hide-no-mentions="true" class="altmetric-embed"></div>
+\
+
 \[16\] Moura AE, Kenny JG, Chaudhuri RR, Hughes MA, Welch AJ, **Reisinger RR**, de Bruyn PJN, Dahlheim ME, Hall N, Hoelzel AR (2014)\
 **Population genomics of the killer whale indicates ecotype evolution in sympatry involving both selection and drift.**\
 *Molecular Ecology* 23: 5179-5192\
 <http://dx.doi.org/10.1111/mec.12929>
+
+<span class="__dimensions_badge_embed__" data-doi="10.1111/mec.12929" data-style="large_rectangle"></span> <div data-badge-type="1" data-doi="10.1111/mec.12929" data-hide-no-mentions="true" class="altmetric-embed"></div>
+\
 
 ### 2013
 
@@ -326,10 +468,16 @@ Pseudostalked barnacles *Xenobalanus globicipitis* attached to killer whales *Or
 *Polar Biology* 36: 1687-1692\
 <http://dx.doi.org/10.1007/s00300-013-1378-5>
 
+<span class="__dimensions_badge_embed__" data-doi="10.1007/s00300-013-1378-5" data-style="large_rectangle"></span> <div data-badge-type="1" data-doi="10.1007/s00300-013-1378-5" data-hide-no-mentions="true" class="altmetric-embed"></div>
+\
+
 \[14\] Towner AV, Wcisel MA, **Reisinger RR**, Edwards D, Jewell OJD (2013)\
 **Gauging the threat: The first population estimate for white sharks in South Africa using photo identification and automated software.**\
 *PLoS One* 8(6): e66035.\
 <http://dx.doi.org/10.1371/journal.pone.0066035>
+
+<span class="__dimensions_badge_embed__" data-doi="10.1371/journal.pone.0066035" data-style="large_rectangle"></span> <div data-badge-type="1" data-doi="10.1371/journal.pone.0066035" data-hide-no-mentions="true" class="altmetric-embed"></div>
+\
 
 ### 2012
 
@@ -338,10 +486,16 @@ Pseudostalked barnacles *Xenobalanus globicipitis* attached to killer whales *Or
 *Polar Biology* 35:1767-1772\
 <http://dx.doi.org/10.1007/s00300-012-1216-1>
 
+<span class="__dimensions_badge_embed__" data-doi="10.1007/s00300-012-1216-1" data-style="large_rectangle"></span> <div data-badge-type="1" data-doi="10.1007/s00300-012-1216-1" data-hide-no-mentions="true" class="altmetric-embed"></div>
+\
+
 \[12\] Bester MN, de Bruyn PJN, Oosthuizen WC, Tosh CA, McIntyre T, **Reisinger RR**, Postma M, van der Merwe DS, Wege M (2012)\
 **The Marine Mammal Programme at the Prince Edward Islands: 38 years of research.**\
 *African Journal of Marine Science* 33(3): 511-521\
 <http://dx.doi.org/10.2989/1814232X.2011.637356>
+
+<span class="__dimensions_badge_embed__" data-doi="10.2989/1814232X.2011.637356" data-style="large_rectangle"></span> <div data-badge-type="1" data-doi="10.2989/1814232X.2011.637356" data-hide-no-mentions="true" class="altmetric-embed"></div>
+\
 
 ### 2011
 
@@ -350,15 +504,24 @@ Pseudostalked barnacles *Xenobalanus globicipitis* attached to killer whales *Or
 *Journal of Zoology, London* 285(1): 1-10\
 <http://dx.doi.org/10.1111/j.1469-7998.2011.00815.x>
 
+<span class="__dimensions_badge_embed__" data-doi="10.1111/j.1469-7998.2011.00815.x" data-style="large_rectangle"></span> <div data-badge-type="1" data-doi="10.1111/j.1469-7998.2011.00815.x" data-hide-no-mentions="true" class="altmetric-embed"></div>
+\
+
 **\[10\] Reisinger RR,** de Bruyn PJN, Tosh CA, Oosthuizen WC, Mufanadzo NT, Bester MN (2011)\
 **Prey and seasonal abundance of killer whales at Subantarctic Marion Island.**\
 *African Journal of Marine Science* 33(1): 99-105\
 <http://dx.doi.org/10.2989/1814232X.2011.572356>
 
+<span class="__dimensions_badge_embed__" data-doi="10.2989/1814232X.2011.572356" data-style="large_rectangle"></span> <div data-badge-type="1" data-doi="10.2989/1814232X.2011.572356" data-hide-no-mentions="true" class="altmetric-embed"></div>
+\
+
 **\[9\] Reisinger RR,** de Bruyn PJN, Bester MN (2011)\
 **Abundance estimates of killer whales at subantarctic Marion Island.**\
 *Aquatic Biology* 12(2): 177-185\
 <http://dx.doi.org/10.3354/ab00340>
+
+<span class="__dimensions_badge_embed__" data-doi="10.3354/ab00340" data-style="large_rectangle"></span> <div data-badge-type="1" data-doi="10.3354/ab00340" data-hide-no-mentions="true" class="altmetric-embed"></div>
+\
 
 ### 2010
 
@@ -367,35 +530,56 @@ Pseudostalked barnacles *Xenobalanus globicipitis* attached to killer whales *Or
 *Mammalian Biology* 75(6): 555-560\
 <http://dx.doi.org/10.1016/j.mambio.2009.11.004>
 
+<span class="__dimensions_badge_embed__" data-doi="10.1016/j.mambio.2009.11.004" data-style="large_rectangle"></span> <div data-badge-type="1" data-doi="10.1016/j.mambio.2009.11.004" data-hide-no-mentions="true" class="altmetric-embed"></div>
+\
+
 **\[7\] Reisinger RR,** Bester MN (2010)\
 **Long distance breeding dispersal of a southern elephant seal.**\
 *Polar Biology* 33(9): 1289-1291.\
 <http://dx.doi.org/10.1007/s00300-010-0830-z>
+
+<span class="__dimensions_badge_embed__" data-doi="10.1007/s00300-010-0830-z" data-style="large_rectangle"></span> <div data-badge-type="1" data-doi="10.1007/s00300-010-0830-z" data-hide-no-mentions="true" class="altmetric-embed"></div>
+\
 
 **\[6\] Reisinger RR,** Bester MN (2010)\
 **Goose barnacles on seals and a penguin at Gough Island.**\
 *African Zoology* 45(1): 129-132\
 <http://dx.doi.org/10.3377/004.045.0109>
 
+<span class="__dimensions_badge_embed__" data-doi="10.3377/004.045.0109" data-style="large_rectangle"></span> <div data-badge-type="1" data-doi="10.3377/004.045.0109" data-hide-no-mentions="true" class="altmetric-embed"></div>
+\
+
 \[5\] Bester MN, **Reisinger RR** (2010)**\
 Vagrant Antarctic fur seals at Gough Island in 2009.**\
 *Polar Biology* 33(5): 709-711\
 <http://dx.doi.org/10.1007/s00300-009-0749-4>
+
+<span class="__dimensions_badge_embed__" data-doi="10.1007/s00300-009-0749-4" data-style="large_rectangle"></span> <div data-badge-type="1" data-doi="10.1007/s00300-009-0749-4" data-hide-no-mentions="true" class="altmetric-embed"></div>
+\
 
 **\[4\] Reisinger RR,** de Bruyn PJN, Pistorius PA, Bester MN (2010)\
 **Antarctic fur seal predation on cephalopods at Marion Island.**\
 *Polar Biology* 33(4): 571-574\
 <http://dx.doi.org/10.1007/s00300-009-0731-1>
 
+<span class="__dimensions_badge_embed__" data-doi="10.1007/s00300-009-0731-1" data-style="large_rectangle"></span> <div data-badge-type="1" data-doi="10.1007/s00300-009-0731-1" data-hide-no-mentions="true" class="altmetric-embed"></div>
+\
+
 **\[3\] Reisinger RR,** McIntyre T, Bester MN (2010)\
 **Goose barnacles hitchhike on satellite-tracked southern elephant seals.**\
 *Polar Biology* 33(4): 561-564\
 <http://dx.doi.org/10.1007/s00300-009-0724-0>
 
+<span class="__dimensions_badge_embed__" data-doi="10.1007/s00300-009-0724-0" data-style="large_rectangle"></span> <div data-badge-type="1" data-doi="10.1007/s00300-009-0724-0" data-hide-no-mentions="true" class="altmetric-embed"></div>
+\
+
 **\[2\] Reisinger RR,** Karczmarski L (2010)\
 **Population size estimate of Indo-Pacific bottlenose dolphins in the Algoa Bay region, South Africa.**\
 *Marine Mammal Science* 26(1): 86-97\
 <http://dx.doi.org/10.1111/j.1748-7692.2009.00324.x>
+
+<span class="__dimensions_badge_embed__" data-doi="10.1111/j.1748-7692.2009.00324.x" data-style="large_rectangle"></span> <div data-badge-type="1" data-doi="10.1111/j.1748-7692.2009.00324.x" data-hide-no-mentions="true" class="altmetric-embed"></div>
+\
 
 ### 2009
 
@@ -403,6 +587,9 @@ Vagrant Antarctic fur seals at Gough Island in 2009.**\
 **Leucistic southern elephant seal at Marion Island.**\
 *Polar Biology* 32(3): 509-511\
 <http://dx.doi.org/10.1007/s00300-008-0572-3>
+
+<span class="__dimensions_badge_embed__" data-doi="10.1007/s00300-008-0572-3" data-style="large_rectangle"></span> <div data-badge-type="1" data-doi="10.1007/s00300-008-0572-3" data-hide-no-mentions="true" class="altmetric-embed"></div>
+\
 
 ## Book chapters
 
@@ -415,12 +602,18 @@ In: Notarbartolo di Sciara G, Würsig B, editors.\
 Springer, Cham.\
 <https://doi.org/10.1007/978-3-030-98100-6_5>
 
+<span class="__dimensions_badge_embed__" data-doi="10.1007/978-3-030-98100-6_5" data-style="large_rectangle"></span> <div data-badge-type="1" data-doi="10.1007/978-3-030-98100-6_5" data-hide-no-mentions="true" class="altmetric-embed"></div>
+\
+
 \[3\] Hückstädt LA, **Reisinger RR** (2022)\
 **Habitat utilization and behavior of phocid seals in relation to oceanography.**\
 In: Costa D, McHuron L, editors.\
 *Ethology and Behavioral Ecology of Phocids.*\
 Springer, Cham.\
 <http://dx.doi.org/10.1007/978-3-030-88923-4_5>
+
+<span class="__dimensions_badge_embed__" data-doi="10.1007/978-3-030-88923-4_5" data-style="large_rectangle"></span> <div data-badge-type="1" data-doi="10.1007/978-3-030-88923-4_5" data-hide-no-mentions="true" class="altmetric-embed"></div>
+\
 
 ### 2016
 
