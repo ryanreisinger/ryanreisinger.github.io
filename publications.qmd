@@ -48,7 +48,7 @@ title: "Publications"
 <span class="__dimensions_badge_embed__" data-doi="10.1016/j.marpol.2025.106787" data-style="large_rectangle"></span> <div data-badge-type="1" data-doi="10.1016/j.marpol.2025.106787" data-hide-no-mentions="true" class="altmetric-embed"></div>
 \
 
-\[63\] MD, Leitner M, Oosthuizen WC, Bester MN, Jordaan RK, Voysey MD, Conradie EC, Dosi B, Evans S, Lloyd KJ, Monier Z, Purdon J, **Reisinger RR**, Shihlomule YD, van der Vyver JSF, de Bruyn PJN (2025)\
+\[63\] Ross MD, Leitner M, Oosthuizen WC, Bester MN, Jordaan RK, Voysey MD, Conradie EC, Dosi B, Evans S, Lloyd KJ, Monier Z, Purdon J, **Reisinger RR**, Shihlomule YD, van der Vyver JSF, de Bruyn PJN (2025)\
 **Seasonal occurrence and condition of leopard seals at an extralimital Sub-Antarctic Island**\
 *Polar Biology* 48(2):59.\
 <https://doi.org/10.1007/s00300-025-03378-6>
