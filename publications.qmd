@@ -14,7 +14,17 @@ title: "Publications"
 
 ### 2026
 
-\[68\] VanCompernolle M, & 295 others (2026)\
+\[69\] Robert V, Laurioux A, **Reisinger RR**, Towers J, Auguin E, Mollier M, Richard G, de Bruyn PJN, Guinet C, Tixier P (2026)\
+**Tracking data reveal both indirect and direct interactions between killer whales and fisheries in subantarctic waters**\
+*Marine Environmental Research* 217: 107938.\
+<https://doi.org/10.1016/j.marenvres.2026.107938>
+
+::: {.altmetric-embed data-badge-type="1" data-doi="10.1016/j.marenvres.2026.107938" data-hide-no-mentions="true"}
+:::
+
+\
+
+\[68\] VanCompernolle M, & 309 others (2026)\
 **Vulnerability of highly-mobile and wide-ranging marine megafauna to global anthropogenic threats**\
 *Conservation Biology* 40(1): e70147.\
 <https://doi.org/10.1111/cobi.70147>
