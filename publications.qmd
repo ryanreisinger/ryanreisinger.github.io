@@ -14,6 +14,16 @@ title: "Publications"
 
 ### 2026
 
+\[70\] Oothuizen WC, Hoekstra S, **Reisinger RR**, Pistorius PA (2026)\
+**Terrestrial habitat use of male northern and southern giant petrels breeding at Marion Island**\
+*Royal Society Open Science* 13(2): 250320\
+<https://doi.org/10.1098/rsos.250320>
+
+::: {.altmetric-embed data-badge-type="1" data-doi="10.1098/rsos.250320" data-hide-no-mentions="true"}
+:::
+
+\
+
 \[69\] Robert V, Laurioux A, **Reisinger RR**, Towers J, Auguin E, Mollier M, Richard G, de Bruyn PJN, Guinet C, Tixier P (2026)\
 **Tracking data reveal both indirect and direct interactions between killer whales and fisheries in subantarctic waters**\
 *Marine Environmental Research* 217: 107938.\

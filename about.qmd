@@ -13,6 +13,8 @@ My work broadly speaking focuses on the ecology of marine predators. I look at h
 ## Appointments
 
 +--------------+---------------------------------------------------+
+|              |                                                   |
++==============+===================================================+
 | 2024-present | Associate Professor\                              |
 |              | University of Southampton, UK                     |
 +--------------+---------------------------------------------------+
@@ -44,6 +46,8 @@ My work broadly speaking focuses on the ecology of marine predators. I look at h
 ## Education
 
 +------+--------------------------------------+
+|      |                                      |
++======+======================================+
 | 2015 | PhD (Zoology)\                       |
 |      | University of Pretoria, South Africa |
 +------+--------------------------------------+
