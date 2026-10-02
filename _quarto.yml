@@ -16,6 +16,8 @@ website:
         text: Publications
       - href: teaching.qmd
         text: Teaching
+      - href: presentations.qmd
+        text: Presentations
       - href: https://opelresearch.github.io/
         text: OPEL
 

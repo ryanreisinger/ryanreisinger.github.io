@@ -13,7 +13,15 @@ title: "Publications"
 ## Peer-reviewed papers
 
 ### 2026
+\[72\] Wilson JC, Trathan PN, Venables HJ, Ainley DG, Auger M, Baylis AMM, Bost C-A, Emmerson L, Goetz KT, Hindell MA, Hinke JT, Horswill C, Houstin A, Kato A, Kokubun N, Kooyman GL, Korczak-Abshire M, Labrousse S, Le Bohec C, Lowther AD, Lyver PO, Machado-Gaye AL, Makhado AB, Olmastroni S, Pistorius PA, Pütz K, Ratcliffe N, Ropert-Coudert Y, Ryan PG, Sallée J-B, Santos M, Sherley RB, Soutullo A, Takahashi A, Wienecke B, Zitterbart DP, **Reisinger RR** (2026)\
+Mesoscale eddies in the Southern Ocean influence foraging trip behaviour of multiple penguin species.\
+*Progress in Oceanography* 247:103798.\
+<https://doi.org/10.1016/j.pocean.2026.103798> 
 
+::: {.altmetric-embed data-badge-type="1" data-doi="10.1016/j.pocean.2026.103798" data-hide-no-mentions="true"}
+:::
+
+\
 \[71\] Wilson JC, Trathan PN, Venables HJ, Bornemann H, Constantine R, Costa DP, Dalla Rosa L, Emmerson L, Friedlaender AS, Goebel ME, Goldsworthy S, Hindell MA, Lea M-A, Muelbert MMC, Olmastroni S, Ropert-Coudert Y, Southwell C, **Reisinger RR** (2026)\
 **Temporal and spatial transferability in telemetry-based dynamic species distribution models: The effects of algorithms and pseudo-absence techniques**\
 *Ecological Modelling* 521:111702\
@@ -278,8 +286,7 @@ title: "Publications"
 
 \[45\] Carpenter‐Kling T, **Reisinger RR**, Orgeret F, Connan M, Stevens KL, Ryan PG, Makhado A, Pistorius PA (2020)\
 **Foraging in a dynamic environment: Response of four sympatric sub‐Antarctic albatross species to interannual environmental variability.**\
-*Ecology & Evolution* 10: 11277–11295*\*
-<http://dx.doi.org/10.1002/ece3.6766>
+*Ecology & Evolution* 10: 11277–11295\*\* <http://dx.doi.org/10.1002/ece3.6766>
 
 ::: {.altmetric-embed data-badge-type="1" data-doi="10.1002/ece3.6766" data-hide-no-mentions="true"}
 :::
@@ -365,8 +372,7 @@ Media coverage:\
 
 \[37\] Baylis AMM, Tierney M, Orben R, Warwick-Evans V, Wakefield E, Grecian J, Trathan PN, **Reisinger RR**, Ratcliffe N, Staniland IJ, Croxall J, Campioni L, Catry P, Crofts S, Boersma PD, Galimberti F, Hedd A, Granadeiro J, Handley J, Hayes S, Masello JF, Montevecchi WA, Putz K, Quillfeldt P, Rebstock GA, Sanvito S, Brickle P (2019)\
 **Important at-sea areas of colonial breeding marine predators on the southern Patagonian Shelf**.\
-*Scientific Reports* 9: 8517*\*
-<https://doi.org/10.1038/s41598-019-44695-1>
+*Scientific Reports* 9: 8517\*\* <https://doi.org/10.1038/s41598-019-44695-1>
 
 ::: {.altmetric-embed data-badge-type="1" data-doi="10.1038/s41598-019-44695-1" data-hide-no-mentions="true"}
 :::
@@ -501,8 +507,7 @@ Media coverage:\
 
 \[24\] Wege M, Etienne M-P, Oosthuizen WC, **Reisinger RR**, Bester MN, de Bruyn PJN (2016)\
 **Trend changes in sympatric Subantarctic and Antarctic fur seal pup populations at Marion Island, Southern Ocean.**\
-*Marine Mammal Science* 32(3): 960-982*\*
-<http://dx.doi.org/10.1111/mms.12306>
+*Marine Mammal Science* 32(3): 960-982\*\* <http://dx.doi.org/10.1111/mms.12306>
 
 ::: {.altmetric-embed data-badge-type="1" data-doi="10.1111/mms.12306" data-hide-no-mentions="true"}
 :::

@@ -1,0 +1,38 @@
+---
+title: "Impact of Arctic shipping on whales"
+---
+# [Talk/Poster Title]
+
+**Presented at:** [Conference/Event Name] | [Location/Online]  
+**Date:** [Month Day, Year]  
+
+[← Back to Presentation Resources](https://github.io)
+
+---
+
+## 🎯 Quick Summary
+A brief 2–3 sentence overview of the presentation. Focus on the core ecological or methodological question you addressed, the approach you took, and the primary takeaway. Keep it concise so mobile users can grasp the context immediately.
+
+## 📦 Core Resources
+* **Slides / Poster:** [Download PDF Layout / View Slides](https://link-to-your-pdf.pdf)
+* **Preprint / Paper:** [Read the published paper / bioRxiv link](https://doi.org)
+* **Code Repository:** [GitHub Repository (Analysis & Figures)](https://github.com)
+* **Data Source:** [Zenodo / Dryad Dataset](https://doi.org)
+
+## 🔑 Key Takeaways & Frameworks
+* **Finding 1:** Use **bold text** for the core concept to make the bullet points highly scannable on small screens.
+* **Finding 2:** Keep each point down to one or two short sentences maximum.
+* **Finding 3:** If you presented a specific workflow or framework, summarize its steps right here.
+
+## 📚 Further Reading & References
+* **[Author et al., 2025]** *Paper Title* – The foundational study used for our methodology. [[Link](https://doi.org...)]
+* **[Author & Author, 2023]** *Paper Title* – Excellent context for the regional oceanography/species focus. [[Link](https://doi.org...)]
+
+---
+
+## ✉️ Let's Connect
+If you have questions about the data, analysis, or potential collaborations, please feel free to reach out:
+
+* **Email:** [your.email@example.com](mailto:your.email@example.com)
+* **Website:** [ryanreisinger.github.io](https://github.io)
+* **Professional Socials:** [LinkedIn](https://linkedin.com...) / [Bluesky/Mastodon/Twitter](https://...)
