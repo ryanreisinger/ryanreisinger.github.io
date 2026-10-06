@@ -1,5 +1,5 @@
 ---
-title: "Presentations"
+title: "Selected presentations"
 ---
 
 Below you will find resources (such as citations and extended notes) for selected talks and posters.
@@ -8,3 +8,8 @@ Below you will find resources (such as citations and extended notes) for selecte
 
 - 5 October 2026\
   Impact of Arctic shipping on whales. *Arctic Shipping: A Critical Perspective, presented by the Institute of Maritime Law (University of Southampton) and Gard*. International Chamber of Shipping Maritime Hub, London, UK \| [Sources and references](/talks_pages/2026-10-05.qmd)
+
+## 2022
+
+- August 2022\
+  Predator-derived bioregions in the Southern Ocean: characteristics, drivers and representation in Marine Protected Areas. *10th SCAR Open Science Conference, 1–10 August 2022*. Virtual meeting hosted in Vasco da Gama, India \| [Watch the talk recording on Youtube](https://youtu.be/IcmPkE53EUw?t=4927)
